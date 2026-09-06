@@ -1,0 +1,9 @@
+{
+  "minimum_version": "0.0.3",
+  "latest_version": "0.0.3",
+  "downloads": {
+    "mac": "https://github.com/HirschbergAIO/haio-releases/releases/latest/download/HAIO.dmg",
+    "windows": "https://github.com/HirschbergAIO/haio-releases/releases/latest/download/HAIOSetup.exe",
+    "linux": "https://github.com/HirschbergAIO/haio-releases/releases/latest/download/HAIO.AppImage"
+  }
+}
